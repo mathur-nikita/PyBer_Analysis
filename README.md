@@ -39,3 +39,8 @@ As can be seen by the chart above:
 - Fares in suburban cities and urban cities tend to be more stable with fewer points of volatility compared to urban cities, with rural cities being the most stable.
 
 ## Summary
+
+Some recommendations based on the above analysis:
+1) Despite average fares being the higest in rural cities, they make up less than 7% of the combined fares across all city types.  It would be worth looking into options to increase the performance of PyBer in rural cities, maybe by setting a cap on fares to draw more customers in or offering special rates for specific situations.
+2) In suburban and rural cities the number of drivers is lower than the total number of rides.  PyBer might benefit from recruiting more drivers in these cities to accomodate demand and contribute to a decrease in average fares per customer without the company losing money.
+3) Some research should be done on the volatility of pricing in urban cities to determine the causes (ex. events and holidays) and then put some plans in place to help decrease that instability.
