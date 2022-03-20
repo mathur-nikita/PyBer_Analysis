@@ -17,7 +17,7 @@ As part of our work at PyBer, a Python-based ride-share service, we have been ta
 
 ## Results
 
-Here are the results of our analysis:
+### City Type Analysis
 
 ![summary_df.JPG](https://github.com/mathur-nikita/PyBer_Analysis/blob/main/screenshots/summary_df.JPG)
 
@@ -29,6 +29,13 @@ As can been seen by the chart above:
 - Rural cities have the highest average fare per ride, followed by suburban and then urban cities.
 - Rural cities have the highest average fare per driver, followed by suburban and then urban cities.
 
+### Time Based Analysis
 
+![total_fare_chart.JPG](https://github.com/mathur-nikita/PyBer_Analysis/blob/main/screenshots/total_fare_chart.JPG)
+
+As can be seen by the chart above:
+
+- Fares in urban cities showed an overall increase over time, but this is not a stable increase as there are multiple times in which the fares changed per month (ex. end of February through March).
+- Fares in suburban cities and urban cities tend to be more stable with fewer points of volatility compared to urban cities, with rural cities being the most stable.
 
 ## Summary
